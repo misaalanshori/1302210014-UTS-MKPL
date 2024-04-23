@@ -1,9 +1,9 @@
 package lib;
 
-public class Spouse {
+public class RelatedPerson {
     final private String name;
     final private String idNumber;
-    public Spouse(String name, String idNumber) {
+    public RelatedPerson(String name, String idNumber) {
         this.name = name;
         this.idNumber = idNumber;
     }
